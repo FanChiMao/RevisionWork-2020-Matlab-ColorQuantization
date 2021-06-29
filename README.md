@@ -83,4 +83,26 @@ Reviewer comments: https://drive.google.com/file/d/1hF4fkpgROd0lwyqTp49Kyc07DqWs
     | FCM                 |5.76      |4.49     |3.69     |3.08     |2.62     |2.28     |2.12     |
     | SOM                 |5.77      |4.41     |3.50     |2.85     |2.34     |1.93     |1.57     |  
    
- 
+### 4. Performance 
+- Example image (Orignal image 256x256):  
+  ![image](https://i.ibb.co/XDknL6h/Figure-10-0.jpg)  
+- Codebooksize = 256:  
+  ![image](https://i.ibb.co/f9dn5B3/Figure-10-1.jpg)  
+- Codebooksize = 512:  
+  ![image](https://i.ibb.co/K0GhHXC/Figure-10-2.jpg)  
+- Codebooksize = 1024:  
+  ![image](https://i.ibb.co/6ZbHXY2/Figure-10-3.jpg)  
+  
+### 5. Limitation of 3D Fibonacci Color Qunatization
+Some images with the **high contrast** will make the 3D distribution too dispersive, and the quantization result is not good. (e.g. Kodak10_1024.jpg)  
+- Kodak10.jpg:  
+  ![image](https://i.ibb.co/x3Ktns9/kodim10.png)
+
+- Kodak10.jpg in LAB color space:  
+  ![image](https://i.ibb.co/yqNVVMK/Kodak10-lab-cor.jpg)
+
+- Kodak10.jpg with quantization of codebook size=1024  
+  ![image](https://i.ibb.co/SsZ2fz9/Kodak10-1024.jpg)
+
+### 6. Final comments revision
+Revision of Reviewer comments: https://drive.google.com/file/d/199JHYocvNLVnbWijHdoLSOMlbTeTu2MQ/view?usp=sharing  
