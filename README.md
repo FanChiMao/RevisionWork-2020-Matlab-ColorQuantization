@@ -111,9 +111,9 @@ Revision of Reviewer comments: https://drive.google.com/file/d/199JHYocvNLVnbWij
 
 ### 7. Additional reference (Revision)  
 
-http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.109.7577  
-https://www.tandfonline.com/doi/abs/10.1179/174313107X176298  
-https://www.sciencedirect.com/science/article/pii/S0031320301001704  
-https://link.springer.com/article/10.1186/1687-6180-2011-118  
-https://link.springer.com/article/10.1007/s00521-011-0654-y  
-https://www.researchgate.net/publication/277903925_An_Effective_Color_Quantization_Method_Using_Color_Importance-Based_Self-Organizing_Maps  
+- http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.109.7577  
+- https://www.tandfonline.com/doi/abs/10.1179/174313107X176298  
+- https://www.sciencedirect.com/science/article/pii/S0031320301001704  
+- https://link.springer.com/article/10.1186/1687-6180-2011-118  
+- https://link.springer.com/article/10.1007/s00521-011-0654-y  
+- https://www.researchgate.net/publication/277903925_An_Effective_Color_Quantization_Method_Using_Color_Importance-Based_Self-Organizing_Maps  
