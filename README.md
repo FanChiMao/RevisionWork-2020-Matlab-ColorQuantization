@@ -1,5 +1,5 @@
 # Short Project of paper revision  
-## A 3D Model for Color Quantization and Processing  
+## A 3D Model for Color Quantization and Processing IEEE 2016  
 Author: Soo-Chang Pei, Hsin-Hua Liu, Tsung-Jung Liu, Kuan-Hsien Liu  
 Paper link: https://drive.google.com/file/d/1sWIitCcsllYkipNZpe4GBai79CZ1D2G4/view?usp=sharing  
 Reviewer comments: https://drive.google.com/file/d/1hF4fkpgROd0lwyqTp49Kyc07DqWssA-j/view?usp=sharing  
