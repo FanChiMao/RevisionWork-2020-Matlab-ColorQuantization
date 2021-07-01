@@ -94,7 +94,8 @@ Reviewer comments: https://drive.google.com/file/d/1hF4fkpgROd0lwyqTp49Kyc07DqWs
   ![image](https://i.ibb.co/6ZbHXY2/Figure-10-3.jpg)  
   
 ### 5. Limitation of 3D Fibonacci Color Qunatization  
-  Some images with the **high contrast** will make the 3D distribution too dispersive, and the quantization result is not good. (e.g. Kodak10_1024.jpg)  
+  Some images with the **high contrast** will make the 3D distribution too dispersive, and the quantization result is not good.  
+  (e.g. Kodak10_1024.jpg)  
 - Kodak10.jpg:  
   ![image](https://i.ibb.co/x3Ktns9/kodim10.png)
 
