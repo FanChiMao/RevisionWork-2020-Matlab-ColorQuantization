@@ -95,7 +95,7 @@ Reviewer comments: https://drive.google.com/file/d/1hF4fkpgROd0lwyqTp49Kyc07DqWs
   
 ### 5. Limitation of 3D Fibonacci Color Qunatization  
   Some images with the **high contrast** will make the 3D distribution too dispersive, and the quantization result is not good.  
-  The man in red which is high contrast with the color of background, so the quantization image couldn't sucessfully color up.
+  The man in red which is high contrast with the color of background, so the quantization image couldn't sucessfully color up.  
   (e.g. kodim10.png)  
 - kodim10.png:  
   ![image](https://i.ibb.co/x3Ktns9/kodim10.png)
