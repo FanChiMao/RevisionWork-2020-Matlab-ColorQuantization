@@ -107,7 +107,7 @@ Reviewer comments: https://drive.google.com/file/d/1hF4fkpgROd0lwyqTp49Kyc07DqWs
   ![image](https://i.ibb.co/SsZ2fz9/Kodak10-1024.jpg)
 
 ### 6. Final comments revision
-Revision of Reviewer comments: https://drive.google.com/file/d/199JHYocvNLVnbWijHdoLSOMlbTeTu2MQ/view?usp=sharing  
+- Revision of Reviewer comments: https://drive.google.com/file/d/199JHYocvNLVnbWijHdoLSOMlbTeTu2MQ/view?usp=sharing  
 
 ### 7. Additional reference (Revision)  
 
